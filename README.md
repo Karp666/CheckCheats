@@ -2,7 +2,7 @@
 The plugin was rewrited and cleaned a little bit by deleting some useless stuff from it.
 Added an Center Menu, using the https://github.com/T3Marius/T3Menu-API
 
-![Alt text]([https://example.com/path/to/image.png](https://i.imgur.com/owiQ6Qu.png)
+![Alt text]([image link](https://i.imgur.com/owiQ6Qu.png))
 
 # For installation you will need the T3Menu-API on server
 Download [(https://github.com/T3Marius/T3Menu-API/releases/tag/1.0.3)]
